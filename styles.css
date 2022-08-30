@@ -3,7 +3,7 @@
 }
 
 #heading,
-.text,
+.hometext,
 .recipelinks {
   text-align: center;
 }
@@ -13,14 +13,16 @@
   background-color: black;
 }
 
-.text {
-  color: rgb(2, 29, 88);
-  background-color: rgb(192, 184, 201);
+.hometext {
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: 600;
 }
 
-.recipes a {
-  background-color: rgb(185, 217, 245);
-  color: black;
+.recipelinks a {
+  background-color: rgb(0, 0, 0);
+  color: rgb(76, 248, 8);
+  font-size: 18px;
   font-weight: bold;
 }
 
@@ -38,9 +40,25 @@
   width: 200px;
 }
 
-.subheading {
+.chirimg {
+  height: auto;
+  width: 200px;
+}
+
+.sub {
   text-align: center;
+}
+
+.tomsub {
   background-color: rgb(185, 217, 245);
+}
+
+.macsub {
+  background-color: rgb(140, 243, 243);
+}
+
+.chirsub {
+  background-color: rgb(125, 160, 255);
 }
 
 .recipetext {
