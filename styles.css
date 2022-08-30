@@ -19,3 +19,12 @@
   background-color: yellow;
   font-weight: bold;
 }
+
+.tomimg {
+  height: auto;
+  width: 300px;
+}
+
+.description {
+  text-align: center;
+}
