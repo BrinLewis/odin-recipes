@@ -1,0 +1,21 @@
+#heading,
+.text,
+.recipes {
+  font-family: Arial, "Times New Roman", sans-serif;
+  text-align: center;
+}
+
+#heading {
+  color: white;
+  background-color: black;
+}
+
+.text {
+  color: aqua;
+  background-color: blueviolet;
+}
+
+.recipes a {
+  background-color: yellow;
+  font-weight: bold;
+}
